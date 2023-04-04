@@ -1,8 +1,8 @@
-### Hello, I am Maikon Santoz👋
+### Hello, I am Maikon Santoz, Front-end programer.👋
 
 
 
-### Sobre o Maikon <br>
+### About Maikon <br>
 Estudante em transição de carreira com foco em front-end.<br>
 Participei do bootcamp da <b> Generation </b> <i>Desenvolvedor web Java</i><br>
 com mais de 227 horas praticas e teoricas simulando 
@@ -15,7 +15,7 @@ na escola <br> <b>EBAC-escola britânica de artes visuais e tecnologia</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maikon-santoz&show_icons=true&theme=dark)
 
-### linguagens utilizadas
+### languages used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maikon-santoz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
