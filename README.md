@@ -16,3 +16,8 @@ pela escola <br> <b>EBAC-escola britânica de artes visuais e tecnologia</b>
 ### linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maikon-santoz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### contato
+
+[<img src='https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maikon-front-end/-933517264/)
+
