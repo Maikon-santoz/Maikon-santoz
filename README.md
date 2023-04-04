@@ -4,9 +4,11 @@
 
 ### Sobre o Maikon <br>
 Estudante em transição de carreira com foco em front-end.<br>
-Participei do bootcamp da <b> Generation </b><br>
-e atualmente cursando  "Engenheiro de front-end"
-pela escola <br> <b>EBAC-escola britânica de artes visuais e tecnologia</b>
+Participei do bootcamp da <b> Generation </b> <i>Desenvolvedor web Java</i><br>
+com mais de 227 horas praticas e teoricas simulando 
+um ambiente de trabalho <br> com entregas diarias de atividades, projetos e reuniões
+<br> Atualmente cursando <i>Engenheiro de front-end </i>
+na escola <br> <b>EBAC-escola britânica de artes visuais e tecnologia</b>
 
 
 
